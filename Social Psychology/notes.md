@@ -30,12 +30,13 @@ What's causing the cause of the study
 1. Design study
     - Plan an experiment in which you give alcohol to one group and no alcohol to a control group. Alternatively, compare people before and after drinking alcohol
 1. Collect the data
-    - Give people alcohol and measure motor coordination and balance. Select tassks that are appropriate to collect this information
+    - Give people alcohol and measure motor coordination and balance. Select tasks that are appropriate to collect this information
 1. Analyze data
-    - Use statistical techniques to access whether the results are genuine
-1. Disemminate the results
+    - Use statistical techniques to access whether the results are genuine or a probably due to chance
+1. Disseminate the results
+    - Report on the findings in a research journal or at a conference
 
-Theory definition: Theory vs. Phenomenon
+### Theory definition: Theory vs. Phenomenon
 Theory development:
 
 - Inductive: specific to general (e.g. Kitty Geno)
@@ -54,7 +55,7 @@ Theory development:
 
 Study should be theoretical, since phenomenon is something happening but not knowing why
 
-Theory Evaluation:
+### Theory Evaluation:
 - Testable / Falsifiable 
     - Good theories must be testable
     - Freud's Ego vs Superego theory
@@ -70,3 +71,69 @@ Theory Evaluation:
 
 Usually Phenomenon -> Theory
 
+# 09.06.17
+
+## Background issues for research methods
+
+1. Design: Experimental vs. Correlational
+1. Validity: Internal vs. External
+1. Measurement Issues
+    1. operationalization
+    1. manipulation checks
+
+### Design
+
+#### Experimental
+
+Goal: trying to find the cause
+
+- Manipulate (independent variable)
+    - Number of people, etc
+- Measure (dependent variable)
+    - behavioral, survey, reactions, etc
+
+- Random assignment key
+    - Randomly assigned to random subjects
+    - Eliminating a form of bias
+- Control key
+    - Environment is usually controlled
+    - Ex) color of the room
+- Standardization
+    - How anybody from the research team is interacting with the subject
+    - Ex) talking the instruction differently to each subject
+        - Could use a recording of the instruction to remove the bias
+
+
+#### Correlational
+
+Goal: measuring variables and finding relationships
+
+- Relation Between variables -1 0 +1
+    - -1 : opposite relationship; A goes up, B goes down
+    - 0 : there is NO systematic relationship
+    - 1 : there is relationship; A goes up, B goes up
+- Trying to see if variables are systematically relational to each other
+
+- No Causation
+    - Nothing is being manipulated, so you can't talk about causation
+- Path Analysis
+    - Its aim is to provide estimates of the magnitude and significance of hypothesised causal connections between sets of variables
+    - Like a funnel?
+
+### Validity
+
+#### Internal Validity
+
+Degree you are sure the cause of the results. Basically, you know what you're doing and the cause
+
+#### External Validity
+
+What people think: whether my results here would happen in the real world
+
+What the prof. thinks: degree to which, the subjects (whatever you're measuring) is acting / happening naturally
+
+This doesn't mean we can't have external validity in laboratory experiments. 
+
+**Deception**. Subjects are usually tricked into thinking that the experiment is something else
+
+**Natural**. Do things out in the real world where people don't know they're being tested
