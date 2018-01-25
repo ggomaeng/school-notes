@@ -2,9 +2,9 @@
 
 ## Coulomb's Law
 
-![constants](/screenshots/w1-constants.png)
+![constants](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-constants.png?raw=true)
 
-![constants](/screenshots/w1-constants2.png)
+![constants](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-constants2.png?raw=true)
 
 Force between protons and neutrons are stronger.
 
@@ -18,25 +18,25 @@ Even though the charges are not the same, the magnitude of the forces must be eq
 
 There is a more general reason that these forces must be equal, however: they comprise a Newton's third law interaction pair which means that their magnitudes are the same and their directions are opposite.
 
-![Newton's 3rd law pair](/screenshots/w1-newtons_3rd_lawpair.png)
+![Newton's 3rd law pair](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-newtons_3rd_lawpair.png?raw=true)
 
 ## Superposition Principle
 
 What if there are multiple negative charges, q2 and q3, exerting a force on positive charge q1?
 
-![superposition](/screenshots/w1-superposition.png)
+![superposition](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-superposition.png?raw=true)
 
 You simply add the vectors (forces) to find the net force.
 
 ### Example 1
 
-![superposition](/screenshots/w1-superposition_example_1.png)
+![example1](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-superposition_example_1.png?raw=true)
 
 To find F_3,Net, you calculate the sum of F_13 and F_23.
 
 ### Example 2
 
-![superposition](/screenshots/w1-superposition_example_2_1.png)
+![example2](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-superposition_example_2.png?raw=true)
 
 What if we make this into a 2-D space, and place q2 below q3 at 90 degrees?
 
@@ -48,25 +48,25 @@ Therefore, you can safely eliminate those two variables.
 
 Since sum of vectors in 2-D requires using Pythagorean Theorem, you do
 
-![vector sum](/screenshots/w1-vector_sum.png)
+![vector sum](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-vector_sum.png?raw=true)
 
-![vector sum](/screenshots/w1-vector_sum2.png)
+![vector sum](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-vector_sum2.png?raw=true)
 
 To find the direction of the vector, you use Trig.
 
-![vector direction](/screenshots/w1-vector_degree1.png)
+![vector direction](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-vector_degree1.png?raw=true)
 
-![vector direction](/screenshots/w1-vector_degree2.png)
+![vector direction](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-vector_degree2.png?raw=true)
 
 ### Questions
 
-![question 2](/screenshots/w1-question_2.png)
+![question 2](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-question_2.png?raw=true)
 
 **Answer: (b)**
 
 To find the total force on +q charge we need to add the force on it from the +2q charge (F2) and the force on it from the -q charge (F1) as shown in the diagram below.
 
-![answer 2](/screenshots/w1-answer_2.png)
+![answer 2](https://github.com/ggomaeng/school-notes/blob/master/Physics/screenshots/w1-answer_2.png?raw=true)
 
 Note that F2 is twice as long as F1 since the distances from +q to +2q and to -q are the same, but the magnitude of +2q is twice that of -q. F2 points to the right since 
 +2q exerts a repulsive force on +q. F1 points down since -q exerts an attractive force on +q. The total force (F2) on +q is found by taking the vector sum as shown.
